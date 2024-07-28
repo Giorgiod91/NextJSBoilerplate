@@ -10,10 +10,16 @@
   },
   "dependencies": {
     "@prisma/client": "^5.17.0",
+    "@tanstack/react-query": "^5.51.15",
+    "@trpc/client": "^11.0.0-rc.467",
+    "@trpc/next": "^11.0.0-rc.467",
+    "@trpc/react-query": "^11.0.0-rc.467",
+    "@trpc/server": "^11.0.0-rc.467",
     "framer-motion": "^11.3.17",
     "next": "14.2.5",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@types/node": "^20",
